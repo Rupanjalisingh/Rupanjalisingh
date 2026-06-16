@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <a href="https://rupanjalisingh.github.io/Project0/" target="_blank">🌐 Portfolio</a> • 
+  <a href="https://rupanjalisingh.github.io/Portfolio/" target="_blank">🌐 Portfolio</a> • 
   <a href="mailto:rupanjalisingh10@gmail.com">📧 Email</a> • 
   <a href="https://www.linkedin.com/in/rupanjali-singh-868a97209" target="_blank">💼 LinkedIn</a>
 </p>
